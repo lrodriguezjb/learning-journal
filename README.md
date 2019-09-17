@@ -10,9 +10,9 @@ To me having a Growth Mindset is essential in learning anything and I truly beli
 
 ### For me 3 reminders of Growth Mindset are:
 
-1 - Always remember that Rome was not built in one day.
-2 - What Im trying to learn has been hard for thousands of experts.
-3 - Knowledge by Knowledge I will learn
+* 1 - Always remember that Rome was not built in one day.
+* 2 - What Im trying to learn has been hard for thousands of experts.
+* 3 - Piece by Piece I will learn all the knowledge.
 
 
 You can use the [editor on GitHub](https://github.com/lrodriguezjb/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
