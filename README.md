@@ -1,5 +1,8 @@
 ## Welcome to my awesome Journal!!
 
+Hello My Name is Leandro Rodriguez my Github link is [Here] https://github.com/lrodriguezjb (url) and this Learning Journal and my  is a way for me to document my journey in becoming a Software Developer!.
+
+
 You can use the [editor on GitHub](https://github.com/lrodriguezjb/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
