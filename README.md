@@ -8,12 +8,11 @@ Hello My Name is Leandro Rodriguez my Github link is [Here](https://github.com/l
 
 To me having a Growth Mindset is essential in learning anything and I truly believe that this is a powerful mindset I could not sing or play guitar a couple of years ago but without even thinkning if I was born for that or not I just decided to learn and sometimes it was hard but by not giving up eventually me and people around me started noticing how good I was getting and to me this the best example of Growth Mindset.
 
-### For me 3 reminders of Growth Mindset are:
+### My 3 reminders of Growth Mindset are:
 
-* 1 - Always remember that Rome was not built in one day.
-* 2 - What Im trying to learn has been hard for thousands of experts.
-* 3 - Piece by Piece I will learn all the knowledge.
-
+* 1 - Always remember that Rome was not built in one day. :muscle: :classical_building:
+* 2 - What Im trying to learn has been hard for thousands of experts. :sweat_smile:	
+* 3 - Piece by Piece I will learn all the knowledge.  :nerd_face:
 
 You can use the [editor on GitHub](https://github.com/lrodriguezjb/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
