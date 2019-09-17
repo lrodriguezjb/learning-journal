@@ -2,7 +2,7 @@
 
 Hello My Name is Leandro Rodriguez my Github link is [Here](https://github.com/lrodriguezjb) and this Learning Journal is a way for me to document my journey in becoming a Software Developer! and to share it with the world.
 
-[A Picture of Me :)](https://ibb.co/PW8Cgsk)
+![A Picture of Me :)](https://ibb.co/PW8Cgsk)
 
 ## Growth Mindset
 
