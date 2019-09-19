@@ -14,38 +14,12 @@ To me having a Growth Mindset is essential in learning anything and I truly beli
 * 2 - What Im trying to learn has been hard for thousands of experts. :sweat_smile:	
 * 3 - Piece by Piece I will learn all the knowledge.  :nerd_face:
 
-You can use the [editor on GitHub](https://github.com/lrodriguezjb/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Day 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Today was interesting I got to set up my Computer with the essential editor and configuration needed in my Journey on becoming a Developer. I learned about terminal and learned a few basic navigation commans such as ls and cd I believe Terminal is very useful and gives us another option aside from GUI.
 
-### Markdown
+## Terminal Shorcuts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lrodriguezjb/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* I love how commands entered are stored and can be accessed by using the up and down keys while allowing me to edit as well!.
+* Learned about the command PWD which stands for Print Working Directory I believe this is a very useful command because without a GUI it may be fairly easy to get lost and now know where youre at at any given point but by using this command you can quickly find out where exactly you are.
+* 
